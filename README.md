@@ -1,0 +1,2 @@
+# Simulation_of_SIR-_SIS-_and_SIRS_models_on_a_Small_World_Network
+Simulation_of_SIR,_SIS,_and_SIRS_models_on_a_Small_World_Network
